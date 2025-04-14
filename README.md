@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vnshajrawat951@gmail.com**
 
-- ⚡ Fun fact **A touch of humor helps me stay grounded during complex coding challenges.!😎**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
