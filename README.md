@@ -1,5 +1,5 @@
 <h1 align="center">Yo!! Vansaj in the code. </h1>
-<h3 align="center">Passionate developer from India with a focus on Machine Learnin and  Deep Learning.</h3>
+<h3 align="center">Passionate AI Engineer from India dedicated to developing intelligent solutions powered by Machine Learning and Generative AI..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vans-aj&label=Profile%20views&color=0e75b6&style=flat" alt="vans-aj" /> </p>
 
