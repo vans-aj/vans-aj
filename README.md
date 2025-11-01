@@ -5,12 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vans-aj" alt="vans-aj" /></a> </p>
 
-- 🔭 I’m currently working on [AI-Based-Traffic-Management-System](https://github.com/vans-aj/AI-Based-Traffic-Management-System)
+- 🔭 I’m currently working on [Libranet](https://github.com/vans-aj/Libranet)
 
-- 🌱 I’m currently learning **machine learning and deep learning**
-
-- 👯 I’m looking to collaborate on [AI-Based-Traffic-Management-System](https://github.com/vans-aj/AI-Based-Traffic-Management-System)
-
+- 🌱 I’m currently learning **Gen ai and Agentic ai**
 - 📫 How to reach me **vnshajrawat951@gmail.com**
 
   
