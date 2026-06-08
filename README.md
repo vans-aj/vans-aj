@@ -16,11 +16,12 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building **[Libranet](https://github.com/vans-aj/Libranet)**, a full-stack online bookstore with an AI chatbot, and **QuickTube**, an AI-powered YouTube video analyzer.
-- 🚀 Recently developed an **End-to-End MLOps Pipeline** for vehicle insurance claims using FastAPI, Docker, and AWS.
-- 🌱 I’m currently diving deep into **Gen AI, Agentic AI, and RAG architectures** (using LSTMs, Transformers, and LLMs).
-- ⚡ **Competitive Programming:** Solved **500+** problems on LeetCode, **300+** on GeeksforGeeks, and secured a global rank of **1734** in the Meta Coding Contest!
-- 📫 How to reach me: **[vnshajrawat951@gmail.com](mailto:vnshajrawat951@gmail.com)**
+- 🎓 Final Year B.Tech Student passionate about technology and problem-solving.
+- 🚀 Interested in building AI/ML solutions and scalable backend systems.
+- 🌱 Currently exploring advanced Backend Development, Generative AI, and System Design.
+- 💡 Strong problem-solving skills with 600+ problems solved on LeetCode.
+- 🛠️ Skilled in C++, Java, Python, Node.js, Express.js, MongoDB, Machine Learning, and Deep Learning.
+- 📫 Reach me at: vnshajrawat951@gmail.com
 
 ---
 
